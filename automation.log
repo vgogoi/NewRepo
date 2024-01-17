@@ -1,0 +1,169 @@
+122323 09:05:32 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:05:34 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:05:34 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:05:34 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:05:34 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:05:34 PM - Selenium_driver - INFO - Couldnt switch to NewWindow
+122323 09:05:39 PM - Selenium_driver - INFO - Element not found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:05:39 PM - Selenium_driver - INFO - Cannot click on element
+122323 09:05:45 PM - Selenium_driver - INFO - Element not found with locator:searchInput and locator-type:id
+122323 09:05:45 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:05:50 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:05:50 PM - Selenium_driver - INFO - Text not present
+122323 09:07:40 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:07:42 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:07:42 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:07:43 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:07:43 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:08:41 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:08:42 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:08:42 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:08:43 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:08:48 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:08:48 PM - Selenium_driver - INFO - Text not present
+122323 09:09:52 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:09:54 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:09:54 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:09:54 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:09:55 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:10:29 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:10:29 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:10:29 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:10:32 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:10:37 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:10:37 PM - Selenium_driver - INFO - Text not present
+122323 09:12:43 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:12:45 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:12:45 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:12:45 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:12:46 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:14:37 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:14:37 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:14:37 PM - Selenium_driver - INFO - Waiting for max time:: 10
+122323 09:14:48 PM - Selenium_driver - INFO - Element didnot appear
+122323 09:14:48 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:14:53 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:14:58 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:14:58 PM - Selenium_driver - INFO - Text not present
+122323 09:17:52 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:17:54 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:17:54 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:17:54 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:17:55 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:18:55 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:18:55 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:18:55 PM - Selenium_driver - INFO - Waiting for max time:: 10
+122323 09:19:06 PM - Selenium_driver - INFO - Element didnot appear
+122323 09:19:06 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:19:11 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:20:34 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:20:36 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:20:36 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:20:36 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:20:36 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:21:51 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:21:52 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:21:52 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:21:53 PM - Selenium_driver - INFO - Sent data on element with locator: searchInput and locator type: id
+122323 09:21:58 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:21:58 PM - Selenium_driver - INFO - Text not present
+122323 09:25:44 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:25:46 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:25:46 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:25:46 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:25:46 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:27:41 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:27:42 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:27:42 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:27:43 PM - Selenium_driver - INFO - Sent data on element with locator: searchInput and locator type: id
+122323 09:30:04 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:30:05 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:30:05 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:30:06 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:30:06 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:30:48 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:30:48 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:30:48 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:30:51 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:32:19 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:32:20 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:32:20 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:32:21 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:32:21 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:32:25 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:32:25 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:33:23 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:33:24 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:33:24 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:33:25 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:33:25 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:33:41 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:33:41 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:34:12 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:34:13 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:34:13 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:34:14 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:34:14 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:34:19 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:34:19 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:34:19 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:34:22 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:34:22 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:34:27 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:34:32 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:34:32 PM - Selenium_driver - INFO - Text not present
+122323 09:36:04 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:36:05 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:36:05 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:36:06 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:36:06 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:36:11 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:36:11 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:36:11 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:36:14 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:36:19 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:36:19 PM - Selenium_driver - INFO - Text not present
+122323 09:37:35 PM - Selenium_driver - INFO - Element not found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:37:35 PM - Selenium_driver - INFO - Cannot click on element
+122323 09:37:35 PM - Selenium_driver - INFO - Element not found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:37:35 PM - Selenium_driver - INFO - Cannot click on element
+122323 09:37:35 PM - Selenium_driver - INFO - Couldnt switch to NewWindow
+122323 09:37:55 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:37:57 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:37:57 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:37:57 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:37:57 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:38:02 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:38:02 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:38:02 PM - Selenium_driver - INFO - Waiting for max time:: 10
+122323 09:38:13 PM - Selenium_driver - INFO - Element didnot appear
+122323 09:38:13 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:38:18 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:38:23 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:38:23 PM - Selenium_driver - INFO - Text not present
+122323 09:39:41 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:39:43 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:39:43 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:39:43 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:39:44 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:40:41 PM - Selenium_driver - INFO - Element found with locator://button[@aria-label="Search"] and locator-type:xpath
+122323 09:40:41 PM - Selenium_driver - INFO - Clicked on element with locator: //button[@aria-label="Search"] and locator type: xpath
+122323 09:40:41 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:40:43 PM - Selenium_driver - INFO - Cannot click on element
+122323 09:40:43 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:40:48 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:40:54 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:40:54 PM - Selenium_driver - INFO - Text not present
+122323 09:55:05 PM - Selenium_driver - INFO - Element found with locator://a[@data-toggle="dropdown"] and locator-type:xpath
+122323 09:55:07 PM - Selenium_driver - INFO - Clicked on element with locator: //a[@data-toggle="dropdown"] and locator type: xpath
+122323 09:55:07 PM - Selenium_driver - INFO - Element found with locator://li[@data-subid = "11026"] and locator-type:xpath
+122323 09:55:07 PM - Selenium_driver - INFO - Clicked on element with locator: //li[@data-subid = "11026"] and locator type: xpath
+122323 09:55:08 PM - Selenium_driver - INFO - ##### All window handles #####
+122323 09:55:55 PM - Selenium_driver - INFO - Element not found with locator://*[name()="svg" and @xpath="3"] and locator-type:xpath
+122323 09:55:55 PM - Selenium_driver - INFO - Cannot click on element
+122323 09:55:55 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:56:00 PM - Selenium_driver - INFO - Cannot click on element
+122323 09:56:00 PM - Selenium_driver - INFO - Element found with locator:searchInput and locator-type:id
+122323 09:56:05 PM - Selenium_driver - INFO - Cannot send data on element
+122323 09:56:10 PM - Selenium_driver - INFO - Element not found with locator://div[@class = "search-module--searchLabels--a3061" and contains(.,"Search results for ")]/h4 and locator-type:xpath
+122323 09:56:10 PM - Selenium_driver - INFO - Text not present
